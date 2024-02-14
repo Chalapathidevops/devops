@@ -45,6 +45,8 @@ spec:
 
 
 # Ref
-https://devopscube.com/configure-ingress-tls-kubernetes/
+https://devopscube.com/configure-ingress-tls-kubernetes/ 
+
 https://devopscube.com/kubernetes-ingress-tutorial/
+
 https://devopscube.com/setup-ingress-kubernetes-nginx-controller/
