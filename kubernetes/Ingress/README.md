@@ -42,3 +42,9 @@ spec:
                   number: 80
 ```
 * **Load Balancer Creation:** Creating an Ingress resource in Kubernetes does not directly create a load balancer. Instead, the underlying Ingress controller provisions or configures a load balancer based on the environment (could be cloud provider-based, software-based, or other solutions) to manage incoming traffic based on the Ingress rules.
+
+
+# Ref
+https://devopscube.com/configure-ingress-tls-kubernetes/
+https://devopscube.com/kubernetes-ingress-tutorial/
+https://devopscube.com/setup-ingress-kubernetes-nginx-controller/
