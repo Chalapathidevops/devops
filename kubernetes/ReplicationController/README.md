@@ -1,3 +1,4 @@
+```
 apiVersion: v1
 kind: ReplicationController
 metadata:
@@ -13,3 +14,4 @@ spec:
         - image: nginx
           name: nginximage
   replicas: 4      
+```
