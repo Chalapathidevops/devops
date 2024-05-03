@@ -46,9 +46,9 @@
 - Vertical Pod Autosclar (VPA)
 - Pod Distrucption Budget (PDB)
 - Kubernetes Operators
-- Roll Back Access Controll (RBACK)
+- Roll Back Access Controll (RBAC)
 	- Roles, RoleBinding
 	- ClusterRole, ClusterRoloBinding
 - SSL Certificates
-- Custom Resource Definitions (CRD) 
- 
+- Custom Resource Definitions (CRD)
+  
