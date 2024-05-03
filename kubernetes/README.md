@@ -1,0 +1,53 @@
+## Kubernetes Concepts
+- Kubernetes Architecture
+- Namespace
+- Pods
+- ReplicationController
+- ReplicaSet
+- Deployment
+	- recreate
+	- rollingupdate
+- Services
+	- ClusterIp
+	- NodePort
+	- Loadbalance
+	- Ingress Controller
+- Storage
+	- EmptyDir
+	- HostPth
+	- PersistenceVolume (PV)
+	- PersistenceVolumeClaim (PVC)
+	- StorageClass
+- Labels and Selectors
+- ConfigMaps and Secrets
+- Scheduling
+	- NodeSelector
+	- NodeName
+	- Node affinity
+	- Taints and Tolerations
+- Lineness and Readiness probes	
+- Restart policies
+	- Always
+	- OnFailure
+	- Never
+- Multi container 
+- Sidecar container
+- Init container	
+- Static pods and Mirror pods
+- ResourceQuota and Limits
+- Network policies
+- DaemonSet 
+- StatefulSet
+- CronJobs
+- Drain, Cordon, and Uncordon
+- Version Upgrades
+- ETCD backup and Restore 
+- Horizontal Pod Autosclar (HPA)
+- Vertical Pod Autosclar (VPA)
+- Pod Distrucption Budget (PDB)
+- Kubernetes Operators
+- Roll Back Access Controll (RBACK)
+	- Roles, RoleBinding
+	- ClusterRole, ClusterRoloBinding
+- SSL Certificates 	
+ 
