@@ -49,5 +49,6 @@
 - Roll Back Access Controll (RBACK)
 	- Roles, RoleBinding
 	- ClusterRole, ClusterRoloBinding
-- SSL Certificates 	
+- SSL Certificates
+- Custom Resource Definitions (CRD) 
  
