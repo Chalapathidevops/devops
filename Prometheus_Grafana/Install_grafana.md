@@ -4,3 +4,7 @@
 * **Install helm:** `helm install grafana grafana/grafana`
 * Get the Grafana password from CLI and run the secret to get grafana password
 * **Expose Grafana Service:** `kubectl expose service grafana --type=NodePort --target-port=3000 --name=grafana-ext`
+
+After login import the existing dashboards using ID ex. 3662 - load 
+
+Get sample dashboards for practice `https://grafana.com/grafana/dashboards/`
