@@ -1,4 +1,4 @@
-## Prometheus advantages and disadvantages
+# Prometheus advantages and disadvantages
 Prometheus is an open-source monitoring and alerting toolkit originally built at SoundCloud. It is designed for reliability, scalability, and simplicity in monitoring systems and applications. Here are some of its advantages and disadvantages:
 
 ## Advantages:
