@@ -30,3 +30,10 @@ Indeed, there are various tools available for log management, such as Logstash, 
 Sharing the difference between Fluentd and Fluentbit as per the official docs:
 
 ![image](https://github.com/Chalapathidevops/devops/assets/145283206/cf6ba3ce-0ec0-4a93-9be8-d166f3b68a68)
+
+## Steps to Install EFK and get logs from the application
+
+* Log in to cluster
+* Clone the repo and `cd` to the respective directory
+* Run the `kubectl apply -f . ` command to deploy all the resource.
+* Check the loadbalancer for Kibana server and take the IP to access the Kibana dashboard. 
