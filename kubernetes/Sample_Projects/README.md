@@ -1,3 +1,3 @@
 ## Sample Project
 
-1. Wordpress
+1. MySql and WordPress project
